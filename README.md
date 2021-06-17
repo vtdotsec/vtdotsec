@@ -13,8 +13,8 @@ e pretendo me especializar em<br/>
 Caso queira entrar em contato comigo,<br/>
 fique a vontade de contatar nos<br/>
 links abaixo:
-<br><a href="mailto:victordev1337@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:victordev1337@gmail.com">
+<br/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </img>
 </a>
 <a href="https://discordapp.com/users/362048100887429121">
