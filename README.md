@@ -10,6 +10,10 @@ e pretendo me especializar em<br/>
 **Inteligência Artificial** e<br/>
 **Machine Learning**.
 
+Caso queira entrar em contato comigo,
+fique a vontade de contatar nos
+links abaixo:
+
 <a href="mailto:victordev1337@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </img>
