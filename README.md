@@ -10,4 +10,6 @@ e pretendo me especializar em<br/>
 **Inteligência Artificial** e<br/>
 **Machine Learning**.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/vtdotsec/vtdotsec)
+<a href="https://discordapp.com/users/362048100887429121"![GitHub repo size](https://img.shields.io/github/repo-size/vtdotsec/vtdotsec)</a>
+
+
