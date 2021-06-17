@@ -18,5 +18,9 @@ links abaixo:
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </img>
 </a>
+<a href="https://discordapp.com/users/362048100887429121">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</img>
+</a>
 
 
