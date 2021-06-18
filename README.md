@@ -21,7 +21,7 @@ links abaixo:
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </img>
 </a>
-<a href="t.me/vtdev1">
+<a href="https://t.me/vtdev1">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </img>
 </a>
