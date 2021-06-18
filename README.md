@@ -10,7 +10,7 @@ e pretendo me especializar em<br/>
 **Inteligência Artificial** e<br/>
 **Machine Learning**.
 
-Caso queira,<br/>
+Caso queira,
 fique a vontade de me contatar nos<br/>
 links abaixo:
 <a href="mailto:victordev1337@gmail.com">
