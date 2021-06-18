@@ -11,7 +11,7 @@ e pretendo me especializar em<br/>
 **Machine Learning**.
 
 Caso queira entrar em contato comigo,<br/>
-fique a vontade de contatar nos<br/>
+fique a vontade de me contatar nos<br/>
 links abaixo:
 <a href="mailto:victordev1337@gmail.com">
   <br/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
