@@ -14,15 +14,15 @@ Caso queira, fique a vontade<br/>
 de me contatar nos<br/>
 links abaixo:
 <a href="mailto:victordev1337@gmail.com" target="_blank">
-  <br/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <br/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">>
   </img>
 </a>
  <a href="https://discordapp.com/users/362048100887429121" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">>
 </img>
 </a>
 <a href="https://t.me/vtdev1" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">>
   </img>
 </a>
 
