@@ -11,7 +11,7 @@ e possuo interesse em <br/>
 
 Caso queira, fique a vontade<br/>
 de me contatar nos<br/>
-links abaixo:
+links abaixo:<br/>
 <a href="mailto:victordev1337@gmail.com" target="_blank">
   <br/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </img>
