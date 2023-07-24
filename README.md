@@ -7,8 +7,7 @@ tenho 21 anos e estou cursando<br/>
 
 Tenho foco em Desenvolvimento de Software<br/> 
 e possuo interesse em <br/>
-**Inteligência Artificial** e **Cybersecurity**<br/>
-**Machine Learning**.
+**Inteligência Artificial** e **Cybersecurity**.<br/>
 
 Caso queira, fique a vontade<br/>
 de me contatar nos<br/>
