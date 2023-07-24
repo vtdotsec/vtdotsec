@@ -1,13 +1,13 @@
-## Eaí 😎
+## Hello, World! 
 
 Meu nome é **Victor Hugo**,<br/>
 sou estudante,<br/>
-tenho 19 anos e estou cursando<br/>
+tenho 21 anos e estou cursando<br/>
 **Análise e Desenvolvimento de Sistemas**<br/>
 
-Sou Desenvolvedor Júnior **Python**<br/> 
-e pretendo me especializar em<br/>
-**Inteligência Artificial** e<br/>
+Tenho foco em Desenvolvimento de Software<br/> 
+e possuo interesse em <br/>
+**Inteligência Artificial** e **Cybersecurity**<br/>
 **Machine Learning**.
 
 Caso queira, fique a vontade<br/>
