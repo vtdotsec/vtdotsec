@@ -27,11 +27,14 @@ Contacts and media: <br/>
 
 Certs:
 
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/users/victor-hugo.38ff20a4)
+[![AWS Certified Solutions Architect – Associate](https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Solutions-Architect-Associate_badge.680x680.png)](https://www.credly.com/badges/9d9e2805-0041-4387-85f3-210299c0509c)
 
+[![AWS Certified Cloud Practitioner](https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Cloud-Practitioner_badge.680x680.png)](https://www.credly.com/badges/120e60c5-2e71-4cb1-a5d3-037913ef0788)
 
+[![Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-azure-fundamentals.svg)](https://www.credly.com/badges/D27ABF-60C8B5)
 
-[!Azure AZ-900](https://ensino.fundacaofat.org.br/uploads/2022/07/fe63603e66d9a8ee9a87c9e710887f61.png)](hhttps://learn.microsoft.com/pt-br/users/victorh-2261/credentials/894216813e1e7201?ref=https%3A%2F%2F)
+[![Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://images.credly.com/size/340x340/images/0b71e6b0-cfed-4a63-8d22-2c91f581bf37/image.png)](https://www.credly.com/badges/11378AC457E80FE216ECD4F71022961D442A4FEE822AD7480A99487214B1376)
+
 
 
 
