@@ -27,7 +27,8 @@ Contacts and media: <br/>
 
 Certs:
 
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e1cd9d1-50c1-4a04-9e26-cfdd8206a7b2/image.png)](https://www.credly.com/users/victor-hugo.38ff20a4)
+[![AWS Certified Solutions Architect – Associate](https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Solutions-Architect-Associate_badge.680x680.png)](https://www.credly.com/users/victor-hugo.38ff20a4)
+
 
 
 <br>My <strong> Credly </strong> profile <a href="https://www.credly.com/users/victor-hugo.38ff20a4">here</a> <br>
