@@ -27,7 +27,7 @@ Contacts and media: <br/>
 
 Certs:
 
-[![AWS Certified Solutions Architect – Associate](https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Solutions-Architect-Associate_badge.680x680.png)](https://www.credly.com/badges/9d9e2805-0041-4387-85f3-210299c0509c)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/9d9e2805-0041-4387-85f3-210299c0509c)
 
 [![AWS Certified Cloud Practitioner](https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Cloud-Practitioner_badge.680x680.png)](https://www.credly.com/badges/120e60c5-2e71-4cb1-a5d3-037913ef0788)
 
