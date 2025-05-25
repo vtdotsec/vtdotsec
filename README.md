@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World! i'm Victor!</h1>
+<h1 align="center">Hello, World! I'm Victor!</h1>
 
 I am 22 years old and a Computer Science student, at IFSP (Instituto Federal de Sao Paulo) <br>
 
