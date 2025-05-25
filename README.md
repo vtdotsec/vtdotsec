@@ -3,7 +3,7 @@
 I am 22 years old and a Computer Science student, at IFSP (Instituto Federal de Sao Paulo) <br>
 
 I currently work as a Site Reliability Engineer, <br>
-focusing on software developmente, resilient infrastructure and applications, including SRE and DevOps cultures. <br>
+focusing on software development, resilient infrastructure and applications, including SRE and DevOps cultures. <br>
 
 I am also very interested in Artificial Intelligence! <br>
 
