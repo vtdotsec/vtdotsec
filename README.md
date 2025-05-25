@@ -27,3 +27,5 @@ Contacts and media: <br/>
 
 <br>My <strong> Credly </strong> profile <a href="https://www.credly.com/users/victor-hugo.38ff20a4">here</a> 
 
+Thanks for visiting my profile! Feel free to connect.
+
