@@ -31,7 +31,7 @@ Certs:
 
 
 
-[!Azure AZ-900](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg)](hhttps://learn.microsoft.com/pt-br/users/victorh-2261/credentials/894216813e1e7201?ref=https%3A%2F%2F)
+[!Azure AZ-900](https://ensino.fundacaofat.org.br/uploads/2022/07/fe63603e66d9a8ee9a87c9e710887f61.png)](hhttps://learn.microsoft.com/pt-br/users/victorh-2261/credentials/894216813e1e7201?ref=https%3A%2F%2F)
 
 
 
