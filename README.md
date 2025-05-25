@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World! i'm Victor!</h1>
 
-I am 22 years old and a Computer Science student, at IFSP! (Instituto Federal de Sao Paulo) <br>
+I am 22 years old and a Computer Science student, at IFSP (Instituto Federal de Sao Paulo) <br>
 
 I currently work as a Site Reliability Engineer, <br>
 focusing on software developmente, resilient infrastructure and applications, including SRE and DevOps cultures. <br>
