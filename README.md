@@ -25,16 +25,12 @@ Contacts and media: <br/>
   </img>
 </a>
 
-Certs:
-<p align="center">
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/9d9e2805-0041-4387-85f3-210299c0509c)
+Certifications
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/120e60c5-2e71-4cb1-a5d3-037913ef0788)
-
-[![Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-azure-fundamentals.svg)](https://www.credly.com/badges/D27ABF-60C8B5)
-
-[![Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://images.credly.com/size/340x340/images/0b71e6b0-cfed-4a63-8d22-2c91f581bf37/image.png)](https://www.credly.com/badges/11378AC457E80FE216ECD4F71022961D442A4FEE822AD7480A99487214B1376)
-</a>
+- **AWS Certified Solutions Architect – Associate**
+- **AWS Certified Cloud Practitioner**
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
 
 
 
