@@ -31,6 +31,10 @@ Certs:
 
 
 
+[!Azure AZ-900](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg)](hhttps://learn.microsoft.com/pt-br/users/victorh-2261/credentials/894216813e1e7201?ref=https%3A%2F%2F)
+
+
+
 <br>My <strong> Credly </strong> profile <a href="https://www.credly.com/users/victor-hugo.38ff20a4">here</a> <br>
 
 
