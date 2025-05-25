@@ -12,10 +12,10 @@ I have experience and have been studying the following technologies:<br/>
 
 Certifications
 
-- **AWS Certified Solutions Architect – Associate**
-- **AWS Certified Cloud Practitioner**
-- **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
+<a href="AWS Certified Solutions Architect – Associate**
+<a href="https://www.credly.com/badges/9d9e2085-0041-4387-85f3-210299c0509c">AWS Certified Cloud Practitioner
+<a href="https://learn.microsoft.com/pt-br/users/victorh-2261/credentials/894216813e1e7201?ref=https%3A%2F%2Fwww.linkedin.com%2F">Microsoft Certified: Azure Fundamentals (AZ-900)
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=11378AC457E80FE21E6CD4F71022961D442AF4EEE822AD7480A99487214B1376">Oracle Cloud Infrastructure 2023 Certified Foundations Associate
 
 Contacts and media: <br/>
 <a href="mailto:victordev1337@gmail.com" target="_blank">
