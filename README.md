@@ -1,13 +1,13 @@
 <h1 align="center">Hello, World! </h1>
 
-Meu nome é Victor, tenho 22 anos e sou estudante de Ciência da Computação no IFSP, São Paulo, Brasil. <br>
+Meu nome é Victor, tenho 22 anos e sou estudante de Ciência da Computação no IFSP (Instituto Federal de Educação, Ciências e Tecnologia de São Paulo), São Paulo, Brasil. <br>
 
 Atualmente, trabalho como Engenheiro de Confiabilidade de Sites (SRE), 
 com foco em desenvolvimento de software e na criação de infraestruturas e aplicações resilientes, vivenciando as culturas SRE e DevOps. <br>
 
 Além disso, tenho grande interesse em Inteligência Artificial!
 <br><br><br><br>
-I'm Victor, a 22-year-old Computer Science student at IFSP (Federal Institute of São Paulo), Brazil <br>
+I'm Victor, a 22-year-old Computer Science student at IFSP, São Paulo, Brazil <br>
 
 I currently work as a Site Reliability Engineer,
 focusing on software development, resilient infrastructure and applications, including SRE and DevOps cultures. <br>
