@@ -23,7 +23,8 @@ I have experience and have been studying the following technologies:<br/>
 <p><a href="https://www.credly.com/badges/9d9e2085-0041-4387-85f3-210299c0509c">AWS Certified Solutions Architect – Associate</a></p>
 <p><a href="https://www.credly.com/badges/34a4366b-f4ae-46ce-a2c3-6dd88ede687e">AWS Certified Cloud Practitioner</p>
 <p><a href="https://learn.microsoft.com/pt-br/users/victorh-2261/credentials/894216813e1e7201?ref=https%3A%2F%2Fwww.linkedin.com%2F">Microsoft Certified: Azure Fundamentals (AZ-900)</p>
-<p><a href="[https://catalog-education.oracle.com/ords/certview/sharebadge?id=11378AC457E80FE21E6CD4F71022961D442AF4EEE822AD7480A99487214B1376](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BB72151EEDEBCC9C28A90C282BB3D05A854A75133DABB4E7C993A64F49361726">Oracle Cloud Infrastructure 2025 Certified Foundations Associate</p>
+  
+<p><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=BB72151EEDEBCC9C28A90C282BB3D05A854A75133DABB4E7C993A64F49361726">Oracle Cloud Infrastructure 2025 Certified Foundations Associate</p>
 
 ### Contacts: <br/>
 
