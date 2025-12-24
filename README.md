@@ -25,15 +25,8 @@ I have experience and have been studying the following technologies:<br/>
 <p><a href="https://learn.microsoft.com/pt-br/users/victorh-2261/credentials/894216813e1e7201?ref=https%3A%2F%2Fwww.linkedin.com%2F">Microsoft Certified: Azure Fundamentals (AZ-900)</p>
 <p><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=11378AC457E80FE21E6CD4F71022961D442AF4EEE822AD7480A99487214B1376">Oracle Cloud Infrastructure 2023 Certified Foundations Associate</p>
 
-### Contacts and media: <br/>
-<a href="mailto:victordev1337@gmail.com" target="_blank">
-  <br/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </img>
-</a>
- <a href="https://discordapp.com/users/362048100887429121" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-</img>
-</a>
+### Contacts: <br/>
+
 <a href="https://www.linkedin.com/in/victorhdeveloper" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </img>
