@@ -6,13 +6,13 @@ No meu dia a dia, atuo no provisionamento e evolução de ambientes em nuvem (AW
 
 Minha stack e ecossistema de atuação incluem:
 
-SO: Linux e Windows
-Cloud: AWS, GCP e Cloudflare
-Containers: Kubernetes (EKS e GKE) e Docker
-GitOps e CI/CD: GitHub Actions, GitLab CI, ArgoCD e Kargo
-IaC: Terraform, Helm e Ansible
-Segurança: Infisical, IAM, Trivy e SonarQube
-Observabilidade: OpenTelemetry, Elastic Cloud (ELK) e Grafana
+SO: Linux e Windows<br>
+Cloud: AWS, GCP, Cloudflare<br>
+Containers: Kubernetes (EKS e GKE), Docker<br>
+GitOps e CI/CD: GitHub Actions, GitLab CI, ArgoCD, Kargo<br>
+IaC: Terraform, Helm, Ansible<br>
+Segurança: Infisical, IAM, Trivy, SonarQube<br>
+Observabilidade: OpenTelemetry, Elastic Cloud (ELK), Grafana<br>
 <br><br><br><br>
 My name is Victor, and I work as a DevOps Engineer focused on building and maintaining modern infrastructures, with an emphasis on Cloud Native environments, high availability, and GitOps culture.
 
@@ -23,13 +23,13 @@ focusing on software development, resilient infrastructure and applications, inc
 
 My tech stack and ecosystem of expertise include:
 
-OS: Linux and Windows
-Cloud: AWS, GCP, and Cloudflare
-Containers: Kubernetes (EKS and GKE) and Docker
-GitOps and CI/CD: GitHub Actions, GitLab CI, ArgoCD, and Kargo
-IaC: Terraform, Helm, and Ansible
-Security: Infisical, IAM, Trivy, and SonarQube
-Observability: OpenTelemetry, Elastic Cloud (ELK), and Grafana <br>
+OS: Linux, Windows<br>
+Cloud: AWS, GCP, Cloudflare<br>
+Containers: Kubernetes (EKS and GKE), Docker<br>
+GitOps and CI/CD: GitHub Actions, GitLab CI, ArgoCD, Kargo<br>
+IaC: Terraform, Helm, and Ansible<br>
+Security: Infisical, IAM, Trivy, SonarQube<br>
+Observability: OpenTelemetry, Elastic Cloud (ELK), Grafana <br>
 <br><br>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> <br>
 
