@@ -1,11 +1,18 @@
 <h1 align="center">Hello, World! </h1>
 
-Meu nome é Victor, tenho 22 anos e sou estudante de Ciência da Computação no IFSP (Instituto Federal de Educação, Ciências e Tecnologia de São Paulo), São Paulo, Brasil. <br>
+Me chamo Victor e atuo como Engenheiro DevOps com foco na construção e manutenção de infraestruturas modernas, com foco em ambientes Cloud Native, alta disponibilidade e cultura GitOps. <br>
 
-Atualmente, trabalho como Engenheiro de Confiabilidade de Sites (SRE), 
-com foco em desenvolvimento de software e na criação de infraestruturas e aplicações resilientes, vivenciando as culturas SRE e DevOps. <br>
+No meu dia a dia, atuo no provisionamento e evolução de ambientes em nuvem (AWS e GCP) utilizando Infraestrutura como Código (IaC). Minha rotina envolve a criação e otimização de pipelines de CI/CD para automatizar as entregas de software, a administração de clusters Kubernetes resilientes e a configuração de ferramentas de observabilidade para garantir a saúde, performance e segurança contínua das aplicações. <br>
 
-Além disso, tenho grande interesse em Inteligência Artificial!
+Minha stack e ecossistema de atuação incluem:
+
+SO: Linux e Windows
+Cloud: AWS, GCP e Cloudflare
+Containers: Kubernetes (EKS e GKE) e Docker
+GitOps e CI/CD: GitHub Actions, GitLab CI, ArgoCD e Kargo
+IaC: Terraform, Helm e Ansible
+Segurança: Infisical, IAM, Trivy e SonarQube
+Observabilidade: OpenTelemetry, Elastic Cloud (ELK) e Grafana
 <br><br><br><br>
 I'm Victor, a 22-year-old Computer Science student at IFSP, São Paulo, Brazil <br>
 
