@@ -14,16 +14,23 @@ IaC: Terraform, Helm e Ansible
 Segurança: Infisical, IAM, Trivy e SonarQube
 Observabilidade: OpenTelemetry, Elastic Cloud (ELK) e Grafana
 <br><br><br><br>
-I'm Victor, a 22-year-old Computer Science student at IFSP, São Paulo, Brazil <br>
+My name is Victor, and I work as a DevOps Engineer focused on building and maintaining modern infrastructures, with an emphasis on Cloud Native environments, high availability, and GitOps culture.
+
+In my day-to-day work, I focus on provisioning and evolving cloud environments (AWS and GCP) using Infrastructure as Code (IaC). My routine involves creating and optimizing CI/CD pipelines to automate software deliveries, managing resilient Kubernetes clusters, and configuring observability tools to ensure the continuous health, performance, and security of applications. <br>
 
 I currently work as a Site Reliability Engineer,
 focusing on software development, resilient infrastructure and applications, including SRE and DevOps cultures. <br>
 
-I am also very interested in Artificial Intelligence! <br>
+My tech stack and ecosystem of expertise include:
+
+OS: Linux and Windows
+Cloud: AWS, GCP, and Cloudflare
+Containers: Kubernetes (EKS and GKE) and Docker
+GitOps and CI/CD: GitHub Actions, GitLab CI, ArgoCD, and Kargo
+IaC: Terraform, Helm, and Ansible
+Security: Infisical, IAM, Trivy, and SonarQube
+Observability: OpenTelemetry, Elastic Cloud (ELK), and Grafana <br>
 <br><br>
-Tenho experiência e venho estudado as seguintes tecnologias:<br>
-<br>
-I have experience and have been studying the following technologies:<br/>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> <br>
 
 ### Certifications
